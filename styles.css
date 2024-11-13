@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+    font-family: "Sour Gummy", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+}
+
+p {
+    color: blueviolet;
+}
+
+
+a {
+    color: black;
+}
+
+footer {
+    font-size: small;
+}
+
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
